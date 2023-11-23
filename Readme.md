@@ -15,7 +15,7 @@ article
   background-color: #000;
   height: 920px;
 } -->
-</style>
+
 <header>
   <h1>Итоговая контрольная работа по основному блоку
 </h1>
