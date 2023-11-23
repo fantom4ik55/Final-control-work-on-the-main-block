@@ -1,0 +1,15 @@
+C:\Users\fanto\Desktop\KontrWork\bin\Debug\net6.0\KontrWork.exe
+C:\Users\fanto\Desktop\KontrWork\bin\Debug\net6.0\KontrWork.deps.json
+C:\Users\fanto\Desktop\KontrWork\bin\Debug\net6.0\KontrWork.runtimeconfig.json
+C:\Users\fanto\Desktop\KontrWork\bin\Debug\net6.0\KontrWork.dll
+C:\Users\fanto\Desktop\KontrWork\bin\Debug\net6.0\KontrWork.pdb
+C:\Users\fanto\Desktop\KontrWork\obj\Debug\net6.0\KontrWork.csproj.AssemblyReference.cache
+C:\Users\fanto\Desktop\KontrWork\obj\Debug\net6.0\KontrWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fanto\Desktop\KontrWork\obj\Debug\net6.0\KontrWork.AssemblyInfoInputs.cache
+C:\Users\fanto\Desktop\KontrWork\obj\Debug\net6.0\KontrWork.AssemblyInfo.cs
+C:\Users\fanto\Desktop\KontrWork\obj\Debug\net6.0\KontrWork.csproj.CoreCompileInputs.cache
+C:\Users\fanto\Desktop\KontrWork\obj\Debug\net6.0\KontrWork.dll
+C:\Users\fanto\Desktop\KontrWork\obj\Debug\net6.0\refint\KontrWork.dll
+C:\Users\fanto\Desktop\KontrWork\obj\Debug\net6.0\KontrWork.pdb
+C:\Users\fanto\Desktop\KontrWork\obj\Debug\net6.0\KontrWork.genruntimeconfig.cache
+C:\Users\fanto\Desktop\KontrWork\obj\Debug\net6.0\ref\KontrWork.dll
