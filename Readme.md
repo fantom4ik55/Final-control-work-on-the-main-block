@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
 header 
 {
   background-color: #666;
@@ -14,7 +14,7 @@ article
   width: 84%;
   background-color: #000;
   height: 920px;
-}
+} -->
 </style>
 <header>
   <h6>Итоговая контрольная работа по основному блоку
