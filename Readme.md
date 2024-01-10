@@ -1,20 +1,3 @@
-<!-- <style>
-header 
-{
-  background-color: #666;
-  padding: 30px;
-  text-align: center;
-  font-size: 35px;
-  color: #00FFFF;
-}
-article 
-{
-  float: left;
-  padding: 30px;
-  width: 84%;
-  background-color: #000;
-  height: 920px;
-} -->
 
 <header>
   <h1>Итоговая контрольная работа по основному блоку
